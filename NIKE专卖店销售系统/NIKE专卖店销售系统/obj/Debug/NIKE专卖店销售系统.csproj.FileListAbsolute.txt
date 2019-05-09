@@ -1,0 +1,81 @@
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe.config
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.CashForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsViewForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.MainForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.Properties.Resources.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsPutInForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ReturnOfGoodsForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SalaryInfoForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SaleInfoForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csproj.GenerateResource.Cache
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.pdb
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\IrisSkin2.dll
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.exe
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.pdb
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.LoginForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ADForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.TypeManagerForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.EmployeeManagerForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SystemConfigForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csprojResolveAssemblyReference.cache
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe.config
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.exe
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.pdb
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.pdb
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csprojResolveAssemblyReference.cache
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ADForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.CashForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.EmployeeManagerForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsViewForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.LoginForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.MainForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.Properties.Resources.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsPutInForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ReturnOfGoodsForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SalaryInfoForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SaleInfoForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SystemConfigForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.TypeManagerForm.resources
+D:\美斯坦福IT教育\SCCE 2.0\G1\秦遵烽\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csproj.GenerateResource.Cache
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe.config
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.exe
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.pdb
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.pdb
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csprojResolveAssemblyReference.cache
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ADForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.CashForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.EmployeeManagerForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsViewForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.LoginForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.MainForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.Properties.Resources.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsPutInForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ReturnOfGoodsForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SalaryInfoForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SaleInfoForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SystemConfigForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.TypeManagerForm.resources
+E:\MyFiles\MSTF\2017\01_大一课件\SCCE\SCCE大一课件\SCCE G1课件\使用C#语言开发桌面应用程序\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csproj.GenerateResource.Cache
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe.config
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.exe
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.pdb
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.exe
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\bin\Debug\NIKE专卖店销售系统.pdb
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csprojResolveAssemblyReference.cache
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ADForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.CashForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.EmployeeManagerForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsViewForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.LoginForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.MainForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.Properties.Resources.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.GoodsPutInForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.ReturnOfGoodsForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SalaryInfoForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SaleInfoForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.SystemConfigForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.TypeManagerForm.resources
+E:\MyFiles\MSTF\00_课程总结\06_C#WinForm\结业项目\NIKE专卖店销售系统\NIKE专卖店销售系统\obj\Debug\NIKE专卖店销售系统.csproj.GenerateResource.Cache

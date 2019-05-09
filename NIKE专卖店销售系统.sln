@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIKE专卖店销售系统", "NIKE专卖店销售系统\NIKE专卖店销售系统.csproj", "{637B7C31-33DD-428F-B683-3ECF6FAC306C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637B7C31-33DD-428F-B683-3ECF6FAC306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637B7C31-33DD-428F-B683-3ECF6FAC306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637B7C31-33DD-428F-B683-3ECF6FAC306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637B7C31-33DD-428F-B683-3ECF6FAC306C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
